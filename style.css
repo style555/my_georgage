@@ -1,0 +1,57 @@
+.header{
+	text-align: center;
+	padding: 30px;
+	background-color: #DEB887;
+
+}
+.header h1{
+	font-size: 55px; 
+}
+body{
+	font-family: "Jaro", sans-serif;
+	padding: 12px;
+	background-color: #FFF5EE;
+}
+.topnav{
+	background-color: black;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: #FFF5EE;
+	text-align:  center;
+	padding: 16px 20px;
+	text-decoration: none;
+}
+.sumeri{
+	padding: 0% 20%;
+}
+.photo{
+	width: 30%
+   padding: 1.11rem;
+   border-radius: 5px;
+   margin: 0 20px 1.5rem auto;
+   background-color: #aaa;
+   float: left;
+}
+.photo img {
+	width:  100%;
+}
+.photo .teacher {
+	font-size: 14px;
+	font-style: italic;
+}
+h2{
+	clear: left;
+}
+.footer{
+	clear: left;
+	padding: 20px;
+	text-align: center;
+	background: #ddd;
+	margin-top: 20px;
+}
+*{
+	box-sizing: border-box;
+}
